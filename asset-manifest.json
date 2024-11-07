@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/little-corner/static/css/main.9aefd41a.css",
-    "main.js": "/little-corner/static/js/main.8d1b8613.js",
+    "main.js": "/little-corner/static/js/main.e0716c7d.js",
     "static/js/213.886ad8cf.chunk.js": "/little-corner/static/js/213.886ad8cf.chunk.js",
     "static/js/553.5b3628ff.chunk.js": "/little-corner/static/js/553.5b3628ff.chunk.js",
     "static/js/453.8f79a566.chunk.js": "/little-corner/static/js/453.8f79a566.chunk.js",
@@ -9,13 +9,13 @@
     "static/media/resume-img.jpg": "/little-corner/static/media/resume-img.c9432d05efe19b438af8.jpg",
     "index.html": "/little-corner/index.html",
     "main.9aefd41a.css.map": "/little-corner/static/css/main.9aefd41a.css.map",
-    "main.8d1b8613.js.map": "/little-corner/static/js/main.8d1b8613.js.map",
+    "main.e0716c7d.js.map": "/little-corner/static/js/main.e0716c7d.js.map",
     "213.886ad8cf.chunk.js.map": "/little-corner/static/js/213.886ad8cf.chunk.js.map",
     "553.5b3628ff.chunk.js.map": "/little-corner/static/js/553.5b3628ff.chunk.js.map",
     "453.8f79a566.chunk.js.map": "/little-corner/static/js/453.8f79a566.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9aefd41a.css",
-    "static/js/main.8d1b8613.js"
+    "static/js/main.e0716c7d.js"
   ]
 }
